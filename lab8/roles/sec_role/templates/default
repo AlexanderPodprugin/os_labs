@@ -1,0 +1,5 @@
+upstream backend  {
+server 192.168.11.112;
+server 192.168.11.111;
+}
+
